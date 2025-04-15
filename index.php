@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,8 +18,8 @@
             $fahrenheit = $tempCelsius * 9 / 5 + 32;
             $kelvin = $tempCelsius + 273.15;
 
-            echo "<p>$tempCelsius °C = . $fahrenheit . °F</p>";
-            echo "<p>$tempCelsius °C =  . $kelvin . K</p>";
+            echo "<p>$tempCelsius °C = $fahrenheit °F</p>";
+            echo "<p>$tempCelsius °C =  $kelvin  K</p>";
         }
 
         if (isset($_POST['convertSpeed']) && $_POST['speed'] !== '') {
@@ -26,22 +27,22 @@
             $speedMS = $speedKmh / 3.6;
             $speedKnots = $speedKmh / 1.852;
 
-            echo "<p>$speedKmH km/h =  . $speedMS . m/s</p>";
-            echo "<p>$speedKmH km/h =  . $speedKnots . knots</p>";
+            echo "<p>$speedKmH km/h =  $speedMS  m/s</p>";
+            echo "<p>$speedKmH km/h =  $speedKnots  knots</p>";
         }
 
         if (isset($_POST['convertMass']) && $_POST['mass'] !== '') {
             $massKg = $_POST['mass'];
             $kgToGrams = $massKg * 1000;
 
-            echo "<p> $massKg kg =  . $kgToGrams .  grams</p>";
+            echo "<p> $massKg kg =   $kgToGrams  grams</p>";
         }
 
         if (isset($_POST['convertGrams']) && $_POST['grams'] !== '') {
             $grams = $_POST['grams'];
             $gramsToKg = $grams / 1000;
 
-            echo "<p>$grams grams = . $gramsToKg kg</p>";
+            echo "<p>$grams grams =  $gramsToKg kg</p>";
         }
 
         ?>
