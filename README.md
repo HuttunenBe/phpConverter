@@ -15,12 +15,14 @@ ____
 * CSS
 
 
-## 🔄 Converter Demo
+---
 
-### 🔁 Preview
+## 🚀 Preview
 
-<img src="converterPreview.gif" alt="Unit Converter Preview" />
+  <img 
+    src="phpConverterGif.gif" 
+    style="width: 80%;" 
+  />
 
-### 🎥 YouTube Demo
-
-Watch it here: [https://www.youtube.com/watch?v=YoLm6zdyshA](https://www.youtube.com/watch?v=YoLm6zdyshA)
+Watch Full Demo on YouTube <a href="https://youtu.be/zJkc_XYV--E"> Here!
+</a>
