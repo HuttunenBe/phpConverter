@@ -20,7 +20,7 @@ ____
 ## 🚀 Preview
 
   <img 
-    src="phpConverterGif.gif" 
+    src="gifConverterPhp.gif" 
   />
 
 Watch Full Demo on YouTube <a href="https://youtu.be/zJkc_XYV--E"> Here!
