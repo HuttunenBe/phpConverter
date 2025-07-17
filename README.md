@@ -21,7 +21,6 @@ ____
 
   <img 
     src="phpConverterGif.gif" 
-    style="width: 80%;" 
   />
 
 Watch Full Demo on YouTube <a href="https://youtu.be/zJkc_XYV--E"> Here!
