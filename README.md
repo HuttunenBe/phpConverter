@@ -1,4 +1,5 @@
 # 🌡️ PHP Measurement Converter
+
 ## 📘 Task Overview
 A simple PHP app that converts temperature, speed and mass. Each type of conversion has its own input field and button. 
 
@@ -14,11 +15,11 @@ _____
     src="gifConverterPhp.gif" 
   />
 
-#### 🎬 [Watch Full Demo on YouTube!](https://youtu.be/zJkc_XYV--E)
+### 🎬 [Watch Full Demo on YouTube!](https://youtu.be/zJkc_XYV--E)
 
 ____
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 * PHP
 * CSS
 
